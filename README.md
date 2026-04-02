@@ -58,12 +58,7 @@ The goal is not just implementation, but **systematic evaluation and analysis** 
 
 ---
 
-## 📊 Results
 
-| Method      | ROUGE-1 | ROUGE-2 | ROUGE-L |
-| ----------- | ------- | ------- | ------- |
-| Extractive  | TBD     | TBD     | TBD     |
-| Abstractive | TBD     | TBD     | TBD     |
 
 ---
 
@@ -78,29 +73,8 @@ The goal is not just implementation, but **systematic evaluation and analysis** 
 
 ---
 
-## 📂 Project Structure
 
-```
-├── data/
-├── src/
-│   ├── extractive.py
-│   ├── abstractive.py
-│   ├── evaluation.py
-├── notebooks/
-├── results/
-├── README.md
-```
 
----
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python src/main.py
-```
-
----
 
 ## 📈 Future Work
 
@@ -112,4 +86,4 @@ python src/main.py
 
 ## 👨‍💻 Author
 
-[Narashimamurthy]
+Narashimamurthy
