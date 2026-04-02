@@ -1,0 +1,4 @@
+Model,ROUGE-1 F1,ROUGE-1 Precision,ROUGE-1 Recall,ROUGE-2 F1,ROUGE-L F1,Compression Ratio,Novel Bigram Rate,Inference Time (s),ms per sample
+TF-IDF (Extractive),0.2328,0.1436,0.7424,0.1006,0.1471,0.4306,0.002,0.31,3.1
+BART (Abstractive),0.4384,0.4196,0.4807,0.2011,0.2983,0.099,0.0905,153.3,1533.0
+T5 (Abstractive),0.387,0.3974,0.3973,0.1657,0.2653,0.083,0.1114,108.6,1086.0
